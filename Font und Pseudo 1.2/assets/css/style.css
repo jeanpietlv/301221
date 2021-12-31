@@ -1,0 +1,50 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+
+@font-face {
+    font-family: JosefineSans;
+    src: url(/assets/fonts/Josefin_Sans/static/JosefinSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: Shizuru;
+    src: url(/assets/fonts/Shizuru/Shizuru-Regular.ttf);
+}
+
+@font-face {
+    font-family: Yuji;
+    src: url(/assets/fonts/Yuji_Hentaigana_Akebono/YujiHentaiganaAkebono-Regular.ttf);
+}
+
+h1{
+    background: darkgray;
+    padding: 10px;
+    text-align: center;
+}
+
+section p{
+    font-family: Roboto;
+    margin: 10px;
+}
+
+main p{
+    font-family: Licorice;
+    margin: 10px;
+}
+
+aside p{
+    font-family: JosefineSans;
+    margin: 10px;
+}
+
+nav p{
+    font-family: Shizuru;
+    margin: 10px;
+}
+
+footer p{
+    font-family: Yuji;
+    margin: 10px;
+}

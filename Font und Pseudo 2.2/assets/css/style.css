@@ -1,0 +1,11 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Fredoka+One&family=Pacifico&family=Press+Start+2P&family=Roboto+Mono:wght@400;600&display=swap');
+
+h1 {
+    font-family: 'Press Start 2P';
+    background-color: chartreuse;
+    padding: 30px 30px;
+}
